@@ -1,6 +1,6 @@
 import pandas as pd 
 
-air = pd.read_excel("Pandas 2_ML dataset (airbnb).xlsx")
+air = pd.read_excel("Pandas 2_ML dataset airbnb.xlsx")
 
 air.columns
 air.describe()
